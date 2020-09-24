@@ -1,0 +1,19 @@
+{
+			"name": "swadeedges",
+			"title": "SWADE Core Edges",
+			"description": "A module containing the core SWADE Edges, with descriptions",
+			"author": "Tom LaPorta",
+			"version": "1.0.0",
+			"minimumCoreVersion": "0.6.0",
+			"compatibleCoreVersion":"0.7.0",
+			"packs": [
+    					{
+      					"name": "edges",
+      					"label": "SWADE Core Edges",
+      					"path": "packs/swadeedges.db",
+      					"entity": "iteme",
+      					"module": "swadeedges"
+						}
+					]
+		  }
+		
