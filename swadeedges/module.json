@@ -11,7 +11,7 @@
       					"name": "edges",
       					"label": "SWADE Core Edges",
       					"path": "packs/swadeedges.db",
-      					"entity": "iteme",
+      					"entity": "item",
       					"module": "swadeedges"
 						}
 					]
